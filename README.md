@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sxkiro
 - ae - advanced, fl - expert, ps - amateur
-linux - win. 
+(linux - win)
 profile - infosec (beginner) 
 
 <!---
